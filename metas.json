@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Tomar 3L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "asa",
+    "checked": false
+  },
+  {
+    "value": "treinar cedo",
+    "checked": true
+  },
+  {
+    "value": "correr a noite",
+    "checked": true
+  },
+  {
+    "value": "estudar depois do treino",
+    "checked": false
+  }
+]
